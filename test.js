@@ -6,7 +6,7 @@ const address = "bhandup";
 if (1) {
   var name = "akhil";
   let name2 = "amar";
-  //   address = "kanjur";
+  //   address = "kanjur";  // this is will throw an error
 }
 
 console.log(name);
